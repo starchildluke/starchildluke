@@ -6,8 +6,6 @@ Hello! / Ola! / Hola! / Bonjour!
 
 I'm a technical SEO, music producer, and content creator based in Nottingham, UK. I specialise in technical creativity, and problem solving with a pragmatic and minimalist style. I love most things technical-related, SEO-related, and Web-related.
 
----
-
 ## Pronouns
 
 He/him/his
@@ -36,13 +34,9 @@ He/him/his
 * [Neo4j](https://neo4j.com/) - gotta love a graph
 * [Sublime Text](https://www.sublimetext.com/) - what I write all my code in
 
----
-
 [![My github stats](https://github-readme-stats.vercel.app/api?username=starchildluke&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starchildluke&theme=default )](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### Where to find me
 
