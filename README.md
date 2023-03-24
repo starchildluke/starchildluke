@@ -29,7 +29,7 @@ He/him/his
 ## My stack
 
 * [Streamlit](https://streamlit.io/) - big fan and regular user
-* [Jupyter Notebook](https://jupyter.org/) - don't live home without it
+* [Jupyter Lab](https://jupyter.org/) - don't leave home without it
 * [Astro](https://astro.build/) - big fan and my personal website is #BuiltWithAstro
 * [Neo4j](https://neo4j.com/) - gotta love a graph
 * [Sublime Text](https://www.sublimetext.com/) - what I write all my code in
